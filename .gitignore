@@ -1,0 +1,7 @@
+# Datasets
+datasets/
+
+# Model weight saves
+**/*.tflite
+**/*.h
+**/*.pth
