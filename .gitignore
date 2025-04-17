@@ -1,7 +1,12 @@
 # Datasets
 datasets/
 
+# Keys and Environment Variables
+config.txt
+
 # Model weight saves
 **/*.tflite
 **/*.h
 **/*.pth
+**/*.pt
+**/*.onnx
